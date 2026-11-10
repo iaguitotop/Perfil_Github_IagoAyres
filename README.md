@@ -59,5 +59,11 @@ Estou aprendendo cada vez mais sobre **IAs generativas**, com foco em **backend 
 
 ## 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=iaguitotop&show_icons=true&theme=dark)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=iaguitotop&layout=compact&theme=dark)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=iaguitotop&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache=iago1" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iaguitotop&layout=compact&theme=tokyonight&hide_border=true&cache=iago1" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=iaguitotop&theme=tokyonight&hide_border=true&cache=iago1" alt="GitHub streak" />
+</p>
