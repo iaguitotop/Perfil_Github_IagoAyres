@@ -80,7 +80,6 @@ Busco sempre aplicar <b>boas práticas de programação</b> e participar de even
 | Cargo | Empresa | Atuação |
 | :---: | :---: | :---: |
 | **Jovem Aprendiz – Suporte de TI** | Unimed Maranhão do Sul | Rotinas de suporte e apoio no ambiente corporativo |
-| **Freelancer** | Workana | Profissional autônomo |
 
 </div>
 
