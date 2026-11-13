@@ -92,7 +92,7 @@ Busco sempre aplicar <b>boas práticas de programação</b> e participar de even
 | Programa / Curso | Instituição | Período |
 | :---: | :---: | :---: |
 | **Bootcamp Cibersegurança do Zero à Prática** | Santander Open Academy | 2026 – Em andamento |
-| **Bacharel. Ciências da computação** | IFMA-Campus Imperatriz | 2026 - 2030 |
+| **Bacharel. Ciências da computação** | IFMA-Campus Imperatriz | 2026 - Em andamento |
 
 </div>
 
